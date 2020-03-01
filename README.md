@@ -2,6 +2,11 @@
 
 Project to integrate Sentry with Spring Boot Application
 
+## Sentry
+
+Sentry is an open-source platform for workflow productivity, aggregating errors from across the stack in real time. 500K developers use Sentry to get the code-level context they need to resolve issues at every stage of the app lifecycle. Sentry is a tool in the Exception Monitoring category of a tech stack.
+s
+
 ## Maven Dependency
 
 ```xml
